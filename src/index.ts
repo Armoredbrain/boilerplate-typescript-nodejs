@@ -1,5 +1,5 @@
 import { app } from "./server";
-import logger from "./logger";
+import logger from "./console/logger";
 import https from "https";
 import * as dotenv from "dotenv";
 import fs from "fs";

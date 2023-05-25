@@ -1,5 +1,5 @@
 import express from "express";
-import morganMiddleware from "./morganMiddleware";
+import morganMiddleware from "./console/morganMiddleware";
 import helmet from "helmet";
 import cors from "cors";
 import cookieParser from "cookie-parser";
